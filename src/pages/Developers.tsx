@@ -18,7 +18,7 @@ const Developers = () => {
                         <img src="https://avatars.githubusercontent.com/u/74034797?s=400&u=8d250db9bceb4f7415526ea5b276c203f10e3fa9&v=4" alt="..." className="shadow rounded-full max-w-full h-auto align-middle border-none" />
                     </div>
                     <h3 className='font-bold mr-1'>Analou Amiang, </h3>
-                    <p className='font-thin italic'>Php Developer</p>
+                    <p className='font-thin italic'>Junior Developer</p>
                 </div>           
                 {/* grid item */}               
                
